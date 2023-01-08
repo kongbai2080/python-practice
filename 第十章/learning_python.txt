@@ -1,0 +1,8 @@
+In Python you can use list
+In Python you can use if
+In Python you can use dictionary
+In Python you can use input
+In Python you can use while
+In Python you can use function
+In Python you can use class
+In Python you can use file
