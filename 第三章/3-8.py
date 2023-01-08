@@ -1,0 +1,15 @@
+space = ['beijing','shanghai','newyork','landon','shahala','neimenggu']
+print(space)
+print(sorted(space))
+print(space)
+print(sorted(space,reverse=True))
+print(space)
+space.reverse()
+print(space)
+space.reverse()
+print(space)
+space.sort()
+print(space)
+space.sort(reverse=True)
+print(space)
+
